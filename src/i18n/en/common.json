@@ -1,0 +1,117 @@
+{
+  "navbar": {
+    "products": "Products",
+    "projects": "Projects",
+    "services": "Services",
+    "articles": "Articles",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "mainHeading": "We provide building materials and equipment solutions for the success.",
+    "subheading": "From the first nail to the heaviest equipment, we supply everything you need to complete construction projects efficiently, with quality, and on time.",
+    "ctaButton": "Request a quote now.",
+    "stats": {
+      "products": {
+        "number": "1,000+ products.",
+        "description": "A wide range project needs."
+      },
+      "projects": {
+        "number": "1,200+ projects.",
+        "description": "Full support at all stages of"
+      },
+      "clients": {
+        "number": "2,500+ clients.",
+        "description": "Companies and contractors rely"
+      },
+      "clients2": {
+        "number": "2,500+ clients.",
+        "description": "Companies and contractors rely on"
+      }
+    }
+  },
+  "categories": {
+    "title": "Our Outstanding Categories",
+    "personalProtectiveEquipment": "Personal Protective Equipment",
+    "buildingMaterials": "Building Materials",
+    "electricalEquipment": "Electrical Equipment",
+    "heavyMachinery": "Heavy Machinery and Equipment",
+    "handTools": "Hand Tools",
+    "maintenanceAccessories": "Maintenance Accessories and Tools",
+    "products": "Products",
+    "viewProducts": "View Products"
+  },
+  "solutions": {
+    "title": "Solutions that fit your needs",
+    "generalContracting": "General contracting",
+    "generalContractingDescription": "We provide integrated contracting services for residential and commercial projects, with a specialized engineering team that ensures project implementation according to the highest standards throughout all stages.",
+    "personalProtectiveEquipment": "Personal protective equipment",
+    "energyProjects": "Energy or oil and gas projects",
+    "safetyEquipment": "Professional safety equipment",
+    "showMoreDetails": "Show more details",
+    "tag1": "Public garden design",
+    "tag2": "Infrastructure development",
+    "tag3": "Infrastructure development",
+    "tag4": "Execution of residential projects"
+  },
+  "brands": {
+    "title": "The best global brands"
+  },
+  "projects": {
+    "title": "Our proud projects",
+    "project1Title": "Residential construction project",
+    "project2Title": "Residential complex project",
+    "project3Title": "Residential complex project",
+    "project4Title": "Residential complex construction project",
+    "suppliedProducts": "Supplied products",
+    "products": "products",
+    "viewDetails": "View project details",
+    "viewMore": "View more projects"
+  },
+  "customerTrust": {
+    "title": "Customer trust comes first",
+    "testimonial": "Your team provided excellent support for the infrastructure project, and all required materials were delivered on time without any delays."
+  },
+  "startProject": {
+    "title": "Start your project with us",
+    "description": "From building materials to heavy equipment — our team is ready to equip your project completely and at the best prices.",
+    "talkToExpert": "Talk to an expert",
+    "startOrder": "Start your order now"
+  },
+  "articles": {
+    "title": "Learn to make better decisions",
+    "articleTitle": "The best types of building materials...",
+    "date": "10.12.2026"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "projects": "Projects",
+    "articles": "Articles",
+    "aboutUs": "About Us",
+    "categories": "Categories",
+    "handTools": "Hand Tools",
+    "electricalEquipment": "Electrical Equipment",
+    "personalProtectiveEquipment": "Personal Protective Equipment",
+    "buildingMaterials": "Building Materials",
+    "heavyMachinery": "Heavy Machinery and Equipment",
+    "maintenanceAccessories": "Maintenance Accessories and Tools",
+    "ourServices": "Our Services",
+    "generalContracting": "General Contracting",
+    "infrastructureProjects": "Infrastructure Projects",
+    "factoryConstruction": "Factory Construction",
+    "decorationAndFinishing": "Decoration and Finishing",
+    "energyProjects": "Energy or Oil and Gas Projects",
+    "more": "More",
+    "contactUs": "Contact Us",
+    "termsAndConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "followUsOn": "Follow Us On",
+    "subscribeToNewsletter": "Subscribe to the Newsletter",
+    "email": "Email",
+    "send": "Send",
+    "copyright": "© 2024 Central Building Materials — All rights reserved."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "navbar": {
+    "products": "المنتجات",
+    "projects": "المشاريع",
+    "services": "الخدمات",
+    "articles": "المقالات",
+    "aboutUs": "من نحن",
+    "contactUs": "إتصل بنا"
+  },
+  "hero": {
+    "mainHeading": "نوفر حلول مواد البناء والمعدات لتحقيق النجاح.",
+    "subheading": "من أول مسمار إلى أثقل معدات، نوفر كل ما تحتاجه لإكمال مشاريع البناء بكفاءة وجودة وفي الوقت المحدد.",
+    "ctaButton": "اطلب عرض سعر الآن.",
+    "stats": {
+      "products": {
+        "number": "1,000+ منتج.",
+        "description": "مجموعة واسعة من احتياجات المشروع."
+      },
+      "projects": {
+        "number": "1,200+ مشروع.",
+        "description": "دعم كامل في جميع مراحل"
+      },
+      "clients": {
+        "number": "2,500+ عميل.",
+        "description": "الشركات والمقاولون يعتمدون"
+      },
+      "clients2": {
+        "number": "2,500+ عميل.",
+        "description": "الشركات والمقاولون يعتمدون على"
+      }
+    }
+  },
+  "categories": {
+    "title": "تصنيفاتنا المتميّزة",
+    "personalProtectiveEquipment": "معدات الحماية الشخصية",
+    "buildingMaterials": "مواد البناء",
+    "electricalEquipment": "المعدات الكهربائية",
+    "heavyMachinery": "المعدات والآلات الثقيلة",
+    "handTools": "الأدوات اليدوية",
+    "maintenanceAccessories": "إكسسوارات وأدوات الصيانة",
+    "products": "منتجات",
+    "viewProducts": "عرض المنتجات"
+  },
+  "solutions": {
+    "title": "حلول تناسب احتياجاتك",
+    "generalContracting": "المقاولات العامة",
+    "generalContractingDescription": "نقدم خدمات المقاولات المتكاملة للمشاريع السكنية والتجارية، مع فريق هندسي متخصص يضمن تنفيذ المشروع وفق أعلى المعايير خلال جميع المراحل.",
+    "personalProtectiveEquipment": "معدات السلامة المهنية",
+    "energyProjects": "مشاريع الطاقة أو النفط والغاز",
+    "safetyEquipment": "معدات السلامة المهنية",
+    "showMoreDetails": "عرض المزيد من التفاصيل لي",
+    "tag1": "تصميم حدائق عامة",
+    "tag2": "تطوير بنية تحتية",
+    "tag3": "تطوير بنية تحتية",
+    "tag4": "تنفيذ مشاريع سكنية"
+  },
+  "brands": {
+    "title": "أفضل العلامات التجارية العالمية"
+  },
+  "projects": {
+    "title": "مشاريعنا التي نفتخر بها",
+    "project1Title": "مشروع إنشاء مجمع سكني",
+    "project2Title": "مشروع إنشاء مجمع سكني",
+    "project3Title": "مشروع إنشاء مجمع سكني",
+    "project4Title": "مشروع إنشاء مجمع سكني",
+    "suppliedProducts": "المنتجات الموردة",
+    "products": "منتج",
+    "viewDetails": "عرض تفاصيل المشروع",
+    "viewMore": "عرض المزيد من المشاريع"
+  },
+  "customerTrust": {
+    "title": "ثقة العملاء أولاً",
+    "testimonial": "قدم فريقكم دعماً ممتازاً لمشروع البنية التحتية، وتم تسليم جميع المواد المطلوبة في الوقت المحدد دون أي تأخير."
+  },
+  "startProject": {
+    "title": "ابدأ مشروعك معنا",
+    "description": "من مواد البناء إلى المعدات الثقيلة — فريقنا جاهز لتجهيز مشروعك بالكامل وبأفضل الأسعار.",
+    "talkToExpert": "تحدث مع خبير",
+    "startOrder": "ابدأ طلبك الآن"
+  },
+  "articles": {
+    "title": "تعلم اتخاذ قرارات أفضل",
+    "articleTitle": "أفضل أنواع مواد البناء...",
+    "date": "10.12.2026"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "services": "الخدمات",
+    "projects": "المشاريع",
+    "articles": "المقالات",
+    "aboutUs": "من نحن",
+    "categories": "التصنيفات",
+    "handTools": "الأدوات اليدوية",
+    "electricalEquipment": "المعدات الكهربائية",
+    "personalProtectiveEquipment": "معدات الحماية الشخصية",
+    "buildingMaterials": "مواد البناء",
+    "heavyMachinery": "المعدات والآلات الثقيلة",
+    "maintenanceAccessories": "إكسسوارات وأدوات الصيانة",
+    "ourServices": "خدماتنا",
+    "generalContracting": "المقاولات العامة",
+    "infrastructureProjects": "مشاريع البنية التحتية",
+    "factoryConstruction": "إنشاء المصانع",
+    "decorationAndFinishing": "الديكور والتشطيب",
+    "energyProjects": "مشاريع الطاقة أو النفط والغاز",
+    "more": "المزيد",
+    "contactUs": "إتصل بنا",
+    "termsAndConditions": "الشروط والأحكام",
+    "privacyPolicy": "سياسة الخصوصية",
+    "followUsOn": "تابعنا على",
+    "subscribeToNewsletter": "اشترك في النشرة الإخبارية",
+    "email": "البريد الإلكتروني",
+    "send": "إرسال",
+    "copyright": "© 2024 مواد البناء المركزية — جميع الحقوق محفوظة."
+  }
+}

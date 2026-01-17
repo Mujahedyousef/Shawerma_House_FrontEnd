@@ -1,0 +1,1089 @@
+/* English Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+/* Arabic Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Harmattan:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mirza:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Al+Qalam+Al+Hindi:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almendra:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --font-ar: 'Cairo', sans-serif;
+
+  /* Brand colors */
+  --color-brand: #3daae1;
+  --color-brand-dark: #1c90ce;
+  --color-accent: #22c55e;
+  --color-destructive: #ef4444;
+  --color-warning: #f59e0b;
+  --color-info: #3b82f6;
+
+  /* Light mode colors (default) */
+  --color-bg1: #f1f5f9; /* Background 1 (section background) */
+  --color-bg2: #ffffff; /* Background 2 (section background) */
+  --color-card: #ffffff; /* Card Background */
+  --color-border: #e5e7eb; /* Border Color */
+  --color-text: #020617; /* Text Color */
+  --color-text2: #64748b; /* Text Color 2 */
+  --color-text-muted: #64748b; /* Text Muted */
+  --color-text-muted2: #94a3b8; /* Text Muted 2 */
+
+  /* Button Colors - Light Mode */
+  --color-button-primary-bg: #020617;
+  --color-button-primary-bg-hover: #0f172a;
+  --color-button-primary-text: #ffffff;
+  --color-button-primary-text-hover: #ffffff;
+  --color-button-secondary-bg: transparent;
+  --color-button-secondary-bg-hover: #f1f5f9;
+  --color-button-secondary-text: #020617;
+  --color-button-secondary-text-hover: #020617;
+
+  /* Section colors that reverse in dark mode */
+  --color-section-light: #f8f9fb;
+  --color-section-dark: #0b1320;
+  --color-text-on-light: #0b1320;
+  --color-text-on-dark: #ffffff;
+  --color-section-muted: #f8fafc;
+
+  /* Semantic aliases */
+  --color-surface: var(--color-bg1);
+  --color-surface-elevated: var(--color-card);
+  --color-card-surface: var(--color-card);
+  --color-bg: var(--color-bg1); /* Legacy alias */
+  --color-bg-elev: var(--color-card); /* Legacy alias */
+  --color-muted: var(--color-card); /* Legacy alias */
+
+  /* Radii */
+  --radius-xs: 0.375rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.08);
+  --shadow-md: 0 6px 16px rgb(0 0 0 / 0.12);
+  --shadow-lg: 0 12px 32px rgb(0 0 0 / 0.18);
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.32, 0, 0.67, 0);
+  --duration-fast: 120ms;
+  --duration: 220ms;
+  --duration-slow: 380ms;
+
+  /* Container widths */
+  --container-3xl: 80rem;
+  --container-2xl: 72rem;
+  --container-xl: 64rem;
+
+  --shadow-custom: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* ===== Dark Mode Overrides ===== */
+/* Manual theme switching via data-theme attribute */
+:root[data-theme='dark'] {
+  --color-bg1: #020617; /* Background 1 Dark */
+  --color-bg2: #0f172a; /* Background 2 Dark */
+  --color-card: #1e293b; /* Card Background Dark */
+  --color-border: #334155; /* Border Color Dark */
+  --color-text: #ffffff; /* Text Color Dark */
+  --color-text2: #cbd5e1; /* Text Color 2 Dark */
+  --color-text-muted: #cbd5e1; /* Text Muted Dark */
+  --color-text-muted2: #94a3b8; /* Text Muted 2 Dark */
+
+  /* Button Colors - Dark Mode */
+  --color-button-primary-bg: #ffffff;
+  --color-button-primary-bg-hover: #f1f5f9;
+  --color-button-primary-text: #020617;
+  --color-button-primary-text-hover: #020617;
+  --color-button-secondary-bg: transparent;
+  --color-button-secondary-bg-hover: #1e293b;
+  --color-button-secondary-text: #ffffff;
+  --color-button-secondary-text-hover: #ffffff;
+
+  /* Semantic aliases */
+  --color-surface: var(--color-bg1);
+  --color-surface-elevated: var(--color-card);
+  --color-card-surface: var(--color-card);
+  --color-bg: var(--color-bg1); /* Legacy alias */
+  --color-bg-elev: var(--color-card); /* Legacy alias */
+  --color-muted: var(--color-card); /* Legacy alias */
+
+  /* Section colors reversed for dark mode */
+  --color-section-light: #0f172a;
+  --color-section-dark: #f1f5f9;
+  --color-text-on-light: #ffffff;
+  --color-text-on-dark: #0b1320;
+  --color-section-muted: #1e293b;
+}
+
+/* Fallback to system preference if no data-theme is set */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --color-bg1: #020617;
+    --color-bg2: #0f172a;
+    --color-card: #1e293b;
+    --color-border: #334155;
+    --color-text: #ffffff;
+    --color-text2: #cbd5e1;
+    --color-text-muted: #cbd5e1;
+    --color-text-muted2: #94a3b8;
+
+    /* Button Colors - Dark Mode */
+    --color-button-primary-bg: #ffffff;
+    --color-button-primary-bg-hover: #f1f5f9;
+    --color-button-primary-text: #020617;
+    --color-button-primary-text-hover: #020617;
+    --color-button-secondary-bg: transparent;
+    --color-button-secondary-bg-hover: #1e293b;
+    --color-button-secondary-text: #ffffff;
+    --color-button-secondary-text-hover: #ffffff;
+
+    /* Semantic aliases */
+    --color-surface: var(--color-bg1);
+    --color-surface-elevated: var(--color-card);
+    --color-card-surface: var(--color-card);
+    --color-bg: var(--color-bg1); /* Legacy alias */
+    --color-bg-elev: var(--color-card); /* Legacy alias */
+    --color-muted: var(--color-card); /* Legacy alias */
+
+    /* Section colors reversed for dark mode */
+    --color-section-light: #0f172a;
+    --color-section-dark: #f1f5f9;
+    --color-text-on-light: #ffffff;
+    --color-text-on-dark: #0b1320;
+    --color-section-muted: #1e293b;
+  }
+}
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-[var(--color-surface)] text-[var(--color-text)] antialiased;
+    font-family: var(--font-sans);
+  }
+
+  /* Headings scale */
+  h1 {
+    @apply text-3xl md:text-2xl font-semibold tracking-tight;
+  }
+  h2 {
+    @apply text-2xl md:text-xl font-semibold tracking-tight;
+  }
+  h3 {
+    @apply text-xl md:text-lg font-semibold;
+  }
+  h4 {
+    @apply text-lg md:text-sm font-semibold;
+  }
+
+  a {
+    @apply text-[var(--color-brand)] underline-offset-4 hover:underline;
+  }
+
+  span {
+    font-size: 12px;
+  }
+
+  /* Scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border) transparent;
+  }
+  *::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+
+  /* RTL support */
+  [dir='rtl'] .rtl-flip {
+    transform: scaleX(-1);
+  }
+
+  /* Hide scrollbar for articles section */
+  .articles-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for profiles */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@utility card {
+  background: var(--color-card-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-sm);
+}
+
+@utility card-hover {
+  transition: transform var(--duration) var(--ease-out), box-shadow var(--duration) var(--ease-out);
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+}
+
+@utility container-app {
+  max-width: var(--container-3xl);
+  margin-inline: auto;
+  padding-inline: clamp(1rem, 2vw, 2rem);
+}
+
+@utility btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 2.75rem;
+  padding-inline: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  transition: transform var(--duration) var(--ease-out), background-color var(--duration) var(--ease-out);
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+}
+
+@utility btn-primary {
+  background: var(--color-brand);
+  color: white;
+  border-color: transparent;
+}
+@utility btn-ghost {
+  background: transparent;
+  color: var(--color-text);
+}
+
+@utility input-base {
+  width: 100%;
+  height: 2.75rem;
+  border-radius: var(--radius-md);
+  background: var(--color-surface-elevated);
+  border: 1px solid var(--color-border);
+  padding-inline: 0.875rem;
+  color: var(--color-text);
+}
+
+/* Override browser autofill styling */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px var(--color-surface-elevated) inset !important;
+  -webkit-text-fill-color: var(--color-text) !important;
+  background-color: var(--color-surface-elevated) !important;
+  background-image: none !important;
+  transition: background-color 5000s ease-in-out 0s !important;
+}
+
+/* Fix caret color for input fields */
+input {
+  caret-color: var(--color-text) !important;
+}
+@utility textarea-base {
+  width: 100%;
+  min-height: 7rem;
+  border-radius: var(--radius-md);
+  background: var(--color-surface-elevated);
+  border: 1px solid var(--color-border);
+  padding: 0.875rem;
+  color: var(--color-text);
+}
+
+@utility options {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0.5rem;
+  color: var(--color-text);
+  background: var(--color-surface-elevated);
+}
+
+option {
+  @apply options;
+}
+
+td {
+  @apply bg-surface;
+}
+
+body.ar-font {
+  font-family: var(--font-sans) !important;
+}
+
+body.ar-font :lang(en) {
+  font-family: var(--font-sans) !important;
+}
+
+body.en-font {
+  font-family: var(--font-sans) !important;
+}
+
+/* Custom utility classes */
+.bg-glass {
+  @apply bg-white/95 backdrop-blur-xs;
+}
+
+/* ===== ACCESSIBILITY CLASSES - PLAIN CSS WITH HIGH SPECIFICITY ===== */
+
+/* High Contrast Mode - Applied to body/html */
+body.accessibility-high-contrast,
+html.accessibility-high-contrast {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+/* Force all elements to use high contrast colors */
+body.accessibility-high-contrast *,
+html.accessibility-high-contrast * {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+/* Specific overrides for form elements */
+body.accessibility-high-contrast input,
+body.accessibility-high-contrast button,
+body.accessibility-high-contrast select,
+body.accessibility-high-contrast textarea,
+html.accessibility-high-contrast input,
+html.accessibility-high-contrast button,
+html.accessibility-high-contrast select,
+html.accessibility-high-contrast textarea {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 2px solid #ffffff !important;
+}
+
+/* Override specific Tailwind classes */
+body.accessibility-high-contrast .bg-white,
+body.accessibility-high-contrast .bg-white\/70,
+body.accessibility-high-contrast .bg-white\/95,
+html.accessibility-high-contrast .bg-white,
+html.accessibility-high-contrast .bg-white\/70,
+html.accessibility-high-contrast .bg-white\/95 {
+  background-color: #000000 !important;
+}
+
+body.accessibility-high-contrast .bg-slate-50,
+body.accessibility-high-contrast .bg-gray-50,
+body.accessibility-high-contrast .bg-gray-100,
+html.accessibility-high-contrast .bg-slate-50,
+html.accessibility-high-contrast .bg-gray-50,
+html.accessibility-high-contrast .bg-gray-100 {
+  background-color: #1f2937 !important;
+}
+
+body.accessibility-high-contrast .text-gray-600,
+body.accessibility-high-contrast .text-gray-700,
+body.accessibility-high-contrast .text-gray-800,
+body.accessibility-high-contrast .text-gray-500,
+body.accessibility-high-contrast .text-gray-400,
+html.accessibility-high-contrast .text-gray-600,
+html.accessibility-high-contrast .text-gray-700,
+html.accessibility-high-contrast .text-gray-800,
+html.accessibility-high-contrast .text-gray-500,
+html.accessibility-high-contrast .text-gray-400 {
+  color: #ffffff !important;
+}
+
+body.accessibility-high-contrast .border-gray-200,
+body.accessibility-high-contrast .border-gray-300,
+body.accessibility-high-contrast .border-gray-400,
+html.accessibility-high-contrast .border-gray-200,
+html.accessibility-high-contrast .border-gray-300,
+html.accessibility-high-contrast .border-gray-400 {
+  border-color: #ffffff !important;
+}
+
+/* Override primary colors for better visibility */
+body.accessibility-high-contrast .text-primary,
+html.accessibility-high-contrast .text-primary {
+  color: #fbbf24 !important;
+}
+
+body.accessibility-high-contrast .text-primary-rich,
+html.accessibility-high-contrast .text-primary-rich {
+  color: #f59e0b !important;
+}
+
+/* Remove background images in high contrast */
+body.accessibility-high-contrast,
+html.accessibility-high-contrast {
+  background-image: none !important;
+}
+
+/* Font Size Classes - Applied to body/html */
+body.accessibility-font-small,
+html.accessibility-font-small {
+  font-size: 0.75rem !important;
+}
+
+body.accessibility-font-small *,
+html.accessibility-font-small * {
+  font-size: 0.75rem !important;
+}
+
+body.accessibility-font-medium,
+html.accessibility-font-medium {
+  font-size: 1rem !important;
+}
+
+body.accessibility-font-medium *,
+html.accessibility-font-medium * {
+  font-size: 1rem !important;
+}
+
+body.accessibility-font-large,
+html.accessibility-font-large {
+  font-size: 1.25rem !important;
+}
+
+body.accessibility-font-large *,
+html.accessibility-font-large * {
+  font-size: 1.25rem !important;
+}
+
+body.accessibility-font-xlarge,
+html.accessibility-font-xlarge {
+  font-size: 1.5rem !important;
+}
+
+body.accessibility-font-xlarge *,
+html.accessibility-font-xlarge * {
+  font-size: 1.5rem !important;
+}
+
+body.accessibility-font-xxlarge,
+html.accessibility-font-xxlarge {
+  font-size: 2rem !important;
+}
+
+body.accessibility-font-xxlarge *,
+html.accessibility-font-xxlarge * {
+  font-size: 2rem !important;
+}
+
+/* Reduced Motion - Applied to body/html */
+body.accessibility-reduced-motion *,
+html.accessibility-reduced-motion * {
+  transition: none !important;
+  animation: none !important;
+}
+
+body.accessibility-reduced-motion *::before,
+body.accessibility-reduced-motion *::after,
+html.accessibility-reduced-motion *::before,
+html.accessibility-reduced-motion *::after {
+  transition: none !important;
+  animation: none !important;
+}
+
+/* ===== COMPONENT-SPECIFIC ACCESSIBILITY CLASSES ===== */
+
+/* Component-level accessibility classes */
+.accessibility-high-contrast {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+.accessibility-high-contrast * {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.accessibility-font-small {
+  font-size: 0.75rem !important;
+}
+
+.accessibility-font-small * {
+  font-size: 0.75rem !important;
+}
+
+.accessibility-font-medium {
+  font-size: 1rem !important;
+}
+
+.accessibility-font-medium * {
+  font-size: 1rem !important;
+}
+
+.accessibility-font-large {
+  font-size: 1.25rem !important;
+}
+
+.accessibility-font-large * {
+  font-size: 1.25rem !important;
+}
+
+.accessibility-font-xlarge {
+  font-size: 1.5rem !important;
+}
+
+.accessibility-font-xlarge * {
+  font-size: 1.5rem !important;
+}
+
+.accessibility-font-xxlarge {
+  font-size: 2rem !important;
+}
+
+.accessibility-font-xxlarge * {
+  font-size: 2rem !important;
+}
+
+.accessibility-reduced-motion * {
+  transition: none !important;
+  animation: none !important;
+}
+
+.accessibility-reduced-motion *::before,
+.accessibility-reduced-motion *::after {
+  transition: none !important;
+  animation: none !important;
+}
+
+/* Focus Indicators */
+.accessibility-focus-visible {
+  outline: 3px solid #3b82f6 !important;
+  outline-offset: 2px !important;
+}
+
+.accessibility-focus-visible:focus {
+  outline: 3px solid #3b82f6 !important;
+  outline-offset: 2px !important;
+}
+
+.accessibility-focus-visible-high {
+  outline: 4px solid #fbbf24 !important;
+  outline-offset: 4px !important;
+}
+
+/* ===== ACCESSIBILITY DROPDOWN STYLES ===== */
+.accessibility-dropdown {
+  position: absolute !important;
+  top: 100% !important;
+  right: 0 !important;
+  margin-top: 0.25rem !important;
+  width: 20rem !important;
+  background-color: var(--color-surface-elevated) !important;
+  border: 1px solid var(--color-border) !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1) !important;
+  z-index: 50 !important;
+  color: var(--color-text) !important;
+}
+
+.accessibility-dropdown-rtl {
+  position: absolute !important;
+  top: 100% !important;
+  left: 0 !important;
+  margin-top: 0.25rem !important;
+  width: 20rem !important;
+  background-color: var(--color-surface-elevated) !important;
+  border: 1px solid var(--color-border) !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1) !important;
+  z-index: 50 !important;
+  color: var(--color-text) !important;
+}
+
+.accessibility-menu-item {
+  width: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0.75rem 1rem !important;
+  text-align: left !important;
+  transition: background-color 0.15s !important;
+  color: var(--color-text) !important;
+}
+
+.accessibility-menu-item:hover {
+  background-color: var(--color-surface-elevated) !important;
+}
+
+.accessibility-menu-item:focus {
+  outline: 3px solid #3b82f6 !important;
+  outline-offset: 2px !important;
+}
+
+.accessibility-toggle-item {
+  width: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0.75rem 1rem !important;
+  text-align: left !important;
+  transition: background-color 0.15s !important;
+}
+
+.accessibility-toggle-item:hover {
+  background-color: var(--color-surface-elevated) !important;
+}
+
+.accessibility-toggle-item:focus {
+  outline: 3px solid #3b82f6 !important;
+  outline-offset: 2px !important;
+}
+
+.accessibility-button {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  padding: 0.5rem 0.75rem !important;
+  font-size: 0.875rem !important;
+  color: var(--color-text) !important;
+  border: 1px solid var(--color-border) !important;
+  border-radius: 0.5rem !important;
+  transition: all 0.2s !important;
+  cursor: pointer !important;
+}
+
+.accessibility-button:hover {
+  background-color: var(--color-surface-elevated) !important;
+  border-color: #9ca3af !important;
+}
+
+.accessibility-button:focus {
+  outline: 3px solid #3b82f6 !important;
+  outline-offset: 2px !important;
+}
+
+/* Screen Reader Only Text */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* ===== ADDITIONAL OVERRIDES FOR BETTER COMPATIBILITY ===== */
+
+/* Force override any remaining Tailwind styles */
+body.accessibility-high-contrast [class*='bg-'],
+html.accessibility-high-contrast [class*='bg-'] {
+  background-color: #000000 !important;
+}
+
+body.accessibility-high-contrast [class*='text-'],
+html.accessibility-high-contrast [class*='text-'] {
+  color: #ffffff !important;
+}
+
+body.accessibility-high-contrast [class*='border-'],
+html.accessibility-high-contrast [class*='border-'] {
+  border-color: #ffffff !important;
+}
+
+/* Override any inline styles */
+body.accessibility-high-contrast *[style*='background'],
+html.accessibility-high-contrast *[style*='background'] {
+  background-color: #000000 !important;
+}
+
+body.accessibility-high-contrast *[style*='color'],
+html.accessibility-high-contrast *[style*='color'] {
+  color: #ffffff !important;
+}
+
+/* Ensure form elements are visible in high contrast */
+body.accessibility-high-contrast input[type='text'],
+body.accessibility-high-contrast input[type='email'],
+body.accessibility-high-contrast input[type='password'],
+body.accessibility-high-contrast input[type='search'],
+body.accessibility-high-contrast textarea,
+body.accessibility-high-contrast select,
+html.accessibility-high-contrast input[type='text'],
+html.accessibility-high-contrast input[type='email'],
+html.accessibility-high-contrast input[type='password'],
+html.accessibility-high-contrast input[type='search'],
+html.accessibility-high-contrast textarea,
+html.accessibility-high-contrast select {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 2px solid #ffffff !important;
+}
+
+/* Override any remaining background images or gradients */
+body.accessibility-high-contrast *,
+html.accessibility-high-contrast * {
+  background-image: none !important;
+}
+
+/* Ensure buttons are visible */
+body.accessibility-high-contrast button,
+html.accessibility-high-contrast button {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 2px solid #ffffff !important;
+}
+
+/* Override any remaining color classes */
+body.accessibility-high-contrast .text-black,
+body.accessibility-high-contrast .text-white,
+body.accessibility-high-contrast .text-gray-900,
+body.accessibility-high-contrast .text-gray-800,
+body.accessibility-high-contrast .text-gray-700,
+body.accessibility-high-contrast .text-gray-600,
+body.accessibility-high-contrast .text-gray-500,
+body.accessibility-high-contrast .text-gray-400,
+html.accessibility-high-contrast .text-black,
+html.accessibility-high-contrast .text-white,
+html.accessibility-high-contrast .text-gray-900,
+html.accessibility-high-contrast .text-gray-800,
+html.accessibility-high-contrast .text-gray-700,
+html.accessibility-high-contrast .text-gray-600,
+html.accessibility-high-contrast .text-gray-500,
+html.accessibility-high-contrast .text-gray-400 {
+  color: #ffffff !important;
+}
+
+@keyframes pulse-brightness {
+  0%,
+  100% {
+    filter: brightness(1);
+  }
+  50% {
+    filter: brightness(0.65);
+  }
+}
+
+/* Print styles for MoM Preview */
+.print-view-content {
+  line-height: 1.6;
+}
+
+.print-view-content p {
+  margin-bottom: 1em;
+}
+
+.print-view-content ul,
+.print-view-content ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.print-view-content h1,
+.print-view-content h2,
+.print-view-content h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.print-view-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.print-view-content table td,
+.print-view-content table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.print-view-content table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.print-view-content a {
+  color: #3daae1;
+  text-decoration: underline;
+}
+
+.print-view-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media print {
+  .print-view {
+    page-break-inside: avoid;
+  }
+
+  .print-view h1,
+  .print-view h2,
+  .print-view h3 {
+    page-break-after: avoid;
+  }
+
+  .print-view .section {
+    page-break-inside: avoid;
+  }
+}
+
+/* Hide video controls on hover */
+.product-video::-webkit-media-controls {
+  display: none !important;
+}
+
+.product-video::-webkit-media-controls-enclosure {
+  display: none !important;
+}
+
+.product-video::-webkit-media-controls-panel {
+  display: none !important;
+}
+
+.product-video::-webkit-media-controls-play-button {
+  display: none !important;
+}
+
+.product-video::-webkit-media-controls-start-playback-button {
+  display: none !important;
+}
+
+/* Terms and Conditions Page - Rich Text Content Styles */
+.terms-content ul {
+  list-style-type: disc !important;
+  padding-left: 1.5rem !important;
+  padding-right: 0 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.terms-content ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5rem !important;
+  padding-right: 0 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.terms-content li {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+  display: list-item !important;
+  list-style-position: outside !important;
+}
+
+.terms-content ul li {
+  padding-left: 0.5rem !important;
+}
+
+.terms-content ol li {
+  padding-left: 0.5rem !important;
+}
+
+/* RTL Support for lists */
+[dir='rtl'] .terms-content ul {
+  padding-left: 0 !important;
+  padding-right: 1.5rem !important;
+}
+
+[dir='rtl'] .terms-content ol {
+  padding-left: 0 !important;
+  padding-right: 1.5rem !important;
+}
+
+[dir='rtl'] .terms-content ul li {
+  padding-left: 0 !important;
+  padding-right: 0.5rem !important;
+}
+
+[dir='rtl'] .terms-content ol li {
+  padding-left: 0 !important;
+  padding-right: 0.5rem !important;
+}
+
+.product-video {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* Ticker Tape Animation */
+.ticker-container {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ticker-content {
+  display: inline-flex;
+  white-space: nowrap;
+  flex-shrink: 0;
+  will-change: transform;
+}
+
+.ticker-content.ticker-ltr {
+  animation: ticker-scroll 40s linear infinite;
+}
+
+.ticker-content.ticker-rtl {
+  animation: ticker-scroll-rtl 40s linear infinite;
+}
+
+.ticker-item {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 500;
+  padding: 0 1.5rem;
+  flex-shrink: 0;
+}
+
+.ticker-separator {
+  color: white;
+  opacity: 0.8;
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+@keyframes ticker-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes ticker-scroll-rtl {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@layer utilities {
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-150%);
+    }
+    100% {
+      transform: translateX(200%);
+    }
+  }
+  .animate-shimmer {
+    animation: shimmer 3s infinite linear;
+  }
+}
+
+@layer utilities {
+  .bg-gradient-conic {
+    background-image: conic-gradient(var(--tw-gradient-stops));
+  }
+}
+
+@layer utilities {
+  /* ... your existing shimmer and conic gradient code ... */
+
+  /* 1. Define the Keyframes for the Text Gradient */
+  @keyframes gradient-x {
+    0%,
+    100% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+
+  /* 2. Create the Utility Class */
+  .animate-gradient-slow {
+    animation: gradient-x 8s ease infinite;
+    background-size: 200% auto; /* Crucial for the gradient to move */
+  }
+
+  /* 3. Optional: Helper for 3D perspective */
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+}
