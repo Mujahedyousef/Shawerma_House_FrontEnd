@@ -109,7 +109,7 @@ const BrandsSection = () => {
   return (
     <section className="w-full pt-10 md:pt-16 bg-[var(--color-bg)]" dir="ltr">
       <div>
-        {!loading && (
+        {!loading && brandsData && (
           <SectionHeader
             title={isRTL ? brandsData.sectionTitleAr : brandsData.sectionTitleEn}
             subtitle={isRTL ? brandsData.sectionSubtitleAr : brandsData.sectionSubtitleEn}

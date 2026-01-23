@@ -147,6 +147,7 @@ const CategoriesSection = () => {
     return style;
   };
 
+  //TODO: Add loading skeleton
   if (loading) {
     return (
       <section className="w-full pt-10 md:pt-16 px-4 md:px-8 bg-[var(--color-bg1)]">
@@ -157,16 +158,9 @@ const CategoriesSection = () => {
     );
   }
 
-  if (error || !categories || categories.length === 0) {
-    return (
-      <section className="w-full pt-10 md:pt-16 px-4 md:px-8 bg-[var(--color-bg1)]">
-        <div className="text-center">
-          <p className="text-[var(--color-text)]">Failed to load categories.</p>
-        </div>
-      </section>
-    );
+  if (error) {
+    return
   }
-
   return (
     <section className="w-full pt-10 md:pt-16 px-4 md:px-8 bg-[var(--color-bg1)]">
       <div>
@@ -272,9 +266,8 @@ const CategoriesSection = () => {
                     {/* Icon with slide effect */}
                     <ArrowRight
                       size={16}
-                      className={`relative z-10 text-white transition-transform duration-300 drop-shadow-md ${
-                        isRTL ? 'rotate-180' : ''
-                      } group-hover:translate-x-1`}
+                      className={`relative z-10 text-white transition-transform duration-300 drop-shadow-md ${isRTL ? 'rotate-180' : ''
+                        } group-hover:translate-x-1`}
                     />
                   </motion.button>
                 </div>

@@ -4,7 +4,7 @@ export const getBaseUrl = () => {
 };
 
 export const getImageUrl = imageUrl => {
-  if (!imageUrl) return '';
+  if (!imageUrl) return null;
   if (imageUrl.startsWith('http://') || imageUrl.startsWith('https://')) {
     return imageUrl;
   }

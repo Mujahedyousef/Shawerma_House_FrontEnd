@@ -56,7 +56,7 @@ const ProductsGrid = ({ products, loading }) => {
             >
               {/* Product Image */}
               <div className="relative w-full h-48 bg-[var(--color-muted)]">
-                <img src={getImageUrl(product.imageUrl || '')} alt={title} className="w-full h-full object-cover" />
+                {product.imageUrl && <img src={getImageUrl(product.imageUrl)} alt={title} className="w-full h-full object-cover" />}
                 {hasDiscount && (
                   <div className="absolute top-2 right-2 bg-red-500 text-white px-2 py-1 rounded text-xs font-semibold">{isRTL ? 'خصم' : 'Sale'}</div>
                 )}
