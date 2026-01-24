@@ -1,6 +1,6 @@
 export const getBaseUrl = () => {
-  const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
-  return apiUrl.replace(/\/api$/, '') || 'http://localhost:5000';
+  const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5001/api';
+  return apiUrl.replace(/\/api$/, '') || 'http://localhost:5001';
 };
 
 export const getImageUrl = imageUrl => {
