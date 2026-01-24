@@ -13,6 +13,7 @@ import CustomerTrustSection from '../../features/landing/components/CustomerTrus
 import StartProjectSection from '../../features/landing/components/StartProjectSection';
 import ArticlesSection from '../../features/landing/components/ArticlesSection';
 import DownloadAppSection from '../../features/landing/components/DownloadAppSection';
+import BranchesMapSection from '../../features/landing/components/BranchesMapSection';
 import AnimatedButton from '../../components/ui/AnimatedButton';
 import { getImageUrl } from '../../utils/imageUrl';
 
@@ -141,6 +142,9 @@ const LandingPage = () => {
 
       {/* Download App Section */}
       <DownloadAppSection />
+
+      {/* Branches Map Section */}
+      <BranchesMapSection />
 
       {/* Brands Section */}
       <BrandsSection />
