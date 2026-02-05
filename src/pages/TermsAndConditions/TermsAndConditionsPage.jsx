@@ -59,7 +59,7 @@ const TermsAndConditionsPage = () => {
       <section className="relative w-full min-h-[60vh] overflow-hidden">
         {/* Background Image */}
         <div className="absolute inset-0 w-full h-full">
-          <img src={getImageUrl(settings?.heroImageUrl || '')} alt="Terms and Conditions" className="absolute inset-0 w-full h-full object-cover" />
+          {settings?.heroImageUrl && <img src={getImageUrl(settings.heroImageUrl)} alt="Terms and Conditions" className="absolute inset-0 w-full h-full object-cover" />}
           <div className="absolute inset-0 w-full h-full bg-black/50 z-1" />
         </div>
 
