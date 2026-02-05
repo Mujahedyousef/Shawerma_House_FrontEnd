@@ -82,7 +82,8 @@ const CategoriesSection = () => {
   const isRTL = i18n.language === 'ar';
   const { categories, loading, error } = useCategories();
   const { sectionSettings } = useCategoriesSection();
-  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+  // SSR-safe initialization - check if window exists
+  const [isMobile, setIsMobile] = useState(typeof window !== 'undefined' ? window.innerWidth < 768 : false);
 
   // Navigate to products page with category filter
   const handleCategoryClick = categoryId => {
@@ -90,9 +91,15 @@ const CategoriesSection = () => {
   };
 
   useEffect(() => {
+    // Only run on client-side
+    if (typeof window === 'undefined') return;
+    
     const handleResize = () => {
       setIsMobile(window.innerWidth < 768);
     };
+
+    // Set initial value on mount
+    setIsMobile(window.innerWidth < 768);
 
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
