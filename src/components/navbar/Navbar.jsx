@@ -97,7 +97,7 @@ const Navbar = () => {
         <div className={`flex items-center gap-2 sm:gap-3 lg:gap-6 min-w-0 flex-shrink`}>
           {/* Logo */}
           <Link to="/" className="shrink-0">
-            <img src={logoUrl} alt="Central Jordanian Logo" className="h-7 sm:h-8 md:h-10 lg:h-[52px] w-auto cursor-pointer" />
+            <img src={logoUrl} alt="Shawarma House Logo" className="h-7 sm:h-8 md:h-10 lg:h-[52px] w-auto cursor-pointer" />
           </Link>
 
           {/* Navigation Links - Hidden on mobile and tablet, shown on large screens */}
