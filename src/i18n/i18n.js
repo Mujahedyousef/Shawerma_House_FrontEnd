@@ -5,11 +5,18 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 import arTranslations from './ar/common.json';
 import enTranslations from './en/common.json';
 
-// Get saved language from localStorage or default to 'en'
-const savedLanguage = localStorage.getItem('language') || 'en';
+// Check if running on server or client
+const isServer = typeof window === 'undefined';
+
+// Get saved language from localStorage or default to 'en' (only on client)
+const savedLanguage = isServer ? 'en' : (localStorage.getItem('language') || 'en');
+
+// Initialize i18n
+if (!isServer) {
+  i18n.use(LanguageDetector);
+}
 
 i18n
-  .use(LanguageDetector)
   .use(initReactI18next)
   .init({
     resources: {
@@ -27,16 +34,19 @@ i18n
     },
   });
 
-// Save language preference when it changes
-i18n.on('languageChanged', lng => {
-  localStorage.setItem('language', lng);
-  document.documentElement.lang = lng;
-  document.documentElement.dir = lng === 'ar' ? 'rtl' : 'ltr';
-});
+// Only run on client-side
+if (!isServer) {
+  // Save language preference when it changes
+  i18n.on('languageChanged', lng => {
+    localStorage.setItem('language', lng);
+    document.documentElement.lang = lng;
+    document.documentElement.dir = lng === 'ar' ? 'rtl' : 'ltr';
+  });
 
-// Set initial language
-document.documentElement.lang = savedLanguage;
-document.documentElement.dir = savedLanguage === 'ar' ? 'rtl' : 'ltr';
+  // Set initial language
+  document.documentElement.lang = savedLanguage;
+  document.documentElement.dir = savedLanguage === 'ar' ? 'rtl' : 'ltr';
+}
 
 export default i18n;
 
