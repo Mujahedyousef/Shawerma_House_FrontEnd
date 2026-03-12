@@ -10,6 +10,7 @@ import { getImageUrl } from '../../utils/imageUrl';
 const Navbar = () => {
   const { t, i18n } = useTranslation();
   const [isDarkMode, setIsDarkMode] = useState(() => {
+    if (typeof window === 'undefined') return false;
     const savedTheme = localStorage.getItem('theme');
     return savedTheme === 'dark';
   });
@@ -78,7 +79,7 @@ const Navbar = () => {
   const toggleTheme = () => {
     const newTheme = isDarkMode ? 'light' : 'dark';
     setIsDarkMode(!isDarkMode);
-    localStorage.setItem('theme', newTheme);
+    if (typeof window !== 'undefined') localStorage.setItem('theme', newTheme);
     document.documentElement.setAttribute('data-theme', newTheme);
   };
 
